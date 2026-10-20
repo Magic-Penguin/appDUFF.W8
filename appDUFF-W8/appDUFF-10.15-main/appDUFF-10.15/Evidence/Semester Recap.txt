@@ -1,0 +1,33 @@
+Week 1: Mindset, creativity + entertainment > direct education, collaboration and communication
+
+Week 2: Being biggest fan of project, Web development structure 
+		html - skeleton (framework)
+		css - style (looks)
+		js - brain (function)
+
+Week 3: Storyboarding idea on whiteboard (prototype) 
+	Vscode.dev for creating website for first time
+	Workbook lesson: AAA model
+			A - Action
+			A - Application
+			A - Amplification
+
+Week 4: Babylon.js // 3-d model with function
+
+Week 5: Recap of semester up to that point. Updated 3-d model
+
+Week 6: Intro to C# - app development ; reading lines of code
+	function - action (input/output)
+	variable - container
+	class - Overall building block that contains functions and variable to create objects
+	scope - public/private 
+	Visual Studio as the IDE (Integrated Development Environment)
+
+Week 7: "slideshow" template for app use, alterations and customization
+	WPF & XAML for designing UI
+
+Week 8: Using app template to customize UI and create a task list
+	Following creative storyboarding process to document and plan app development.
+
+	Visual, Programming, Logical Hat
+	Understanding and liking the story (the why // the vision)
